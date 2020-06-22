@@ -1,0 +1,16 @@
+{
+"companyName": "JK Games",
+"productName": "Last Human",
+"productVersion": "0.1",
+"dataUrl": "Last Human v0.1 Web GL.data.unityweb",
+"wasmCodeUrl": "Last Human v0.1 Web GL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Last Human v0.1 Web GL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
